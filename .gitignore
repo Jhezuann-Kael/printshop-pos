@@ -1,0 +1,28 @@
+# Environment & credentials
+.env
+CREDENCIALES.txt
+
+# Uploaded files (user content)
+uploads/logos/*.jpg
+uploads/logos/*.jpeg
+uploads/logos/*.png
+uploads/logos/*.webp
+uploads/logos/*.gif
+uploads/comprobantes/*.jpg
+uploads/comprobantes/*.jpeg
+uploads/comprobantes/*.png
+uploads/comprobantes/*.webp
+uploads/comprobantes/*.gif
+
+# PHP / runtime cache
+*.log
+/tmp/
+printshop_bcv.json
+
+# OS & editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
